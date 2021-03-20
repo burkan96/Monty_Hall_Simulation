@@ -3,7 +3,9 @@
 
 # # Monty Hall simulation for *n* doors
 
-# Suppose you're on a game show, and you're given the choice of n doors: Behind one door is a car; behind the others, goats. You pick a door, say No. k, and the host, who knows what's behind the doors, opens opens *n-2* losing doors and then offers the player the opportunity to switch. Is it to your advantage to switch your choice?
+# Suppose you're on a game show, and you're given the choice of n doors: Behind one door is a car; behind the others, goats. 
+# You pick a door, say No. k, and the host, who knows what's behind the doors, opens opens *n-2* losing doors and then offers the player 
+# the opportunity to switch. Is it to your advantage to switch your choice?
 
 # In[1]:
 
